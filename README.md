@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  +8801721404101 <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="angular" width="40" height="40"/>
+  +8801721404101 <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="angular" width="50" height="15"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
