@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Private Project**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://raselahmed.us](https://raselahmed.us)
 
