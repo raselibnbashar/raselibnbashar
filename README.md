@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [[https://raselahmed.us](https://raselibnbashar.com/)]
+- 👨‍💻 All of my projects are available at [[https://raselibnbashar.com](https://raselibnbashar.com/)]
 
 - 💬 Ask me about **react, vue**
 
 - 📫 How to reach me **playrq@gmail.com**
 
-- 📄 Know about my experiences [[https://raselahmed.us](https://raselibnbashar.com/)]
+- 📄 Know about my experiences [[https://raselibnbashar.com](https://raselibnbashar.com/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
